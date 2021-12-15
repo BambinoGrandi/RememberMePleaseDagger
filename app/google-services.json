@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559832349625",
+    "project_id": "remember-me-please-2d59c",
+    "storage_bucket": "remember-me-please-2d59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559832349625:android:912ea03dbb8dc3e981d468",
+        "android_client_info": {
+          "package_name": "ru.grandibambino.remembermeplease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559832349625-0ffu11kdrtvtdom7mc99btrbsm4878ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.grandibambino.remembermeplease",
+            "certificate_hash": "3afab8fa6210218d6b802e75a877d5a1f7c7918b"
+          }
+        },
+        {
+          "client_id": "559832349625-hav6glcvdd4s00d2etauu6mrn9v3humu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDIm3WvErO--SLarh_XQ5ksAfkbXnWYck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559832349625-hav6glcvdd4s00d2etauu6mrn9v3humu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

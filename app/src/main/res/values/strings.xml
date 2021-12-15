@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Remember Me, Please!</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="gender_check_hint">Выберите пол</string>
+    <string name="check_kinship_hint">Выберите родство</string>
+    <string name="add_btn">Добавить</string>
+    <string name="save_button">Сохранить</string>
+    <string name="input_name">Введите имя</string>
+    <string name="input_second_name">Введите фамилию</string>
+
+    <!-- AddFriendsFragment  -->
+    <!-- gender -->
+    <string name="male_radio_button">мужской</string>
+    <string name="female_radio_button">женский</string>
+
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_last_name">Введите фамилию</string>
+    <string name="enter_birthday">Выберите дату рождения</string>
+    <!-- kinship -->
+    <string-array name="kinship_list">
+        <item>Мама</item>
+        <item>Папа</item>
+        <item>Бабушка</item>
+        <item>Дедушка</item>
+        <item>Брат</item>
+        <item>Сестра</item>
+        <item>Друг</item>
+        <item>Подруга</item>
+        <item>Начальник</item>
+        <item>Коллега</item>
+    </string-array>
+
+
+</resources>
